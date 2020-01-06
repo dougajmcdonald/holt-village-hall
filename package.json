@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-tailwind-netlify-cms-starter",
+  "name": "holt-village-hall",
   "private": true,
-  "description": "A starter to get you going with tailwind, netlify cms and sensible utilities like SEO optimisation",
+  "description": "Public facing website for holtvillagehall.com",
   "version": "0.1.0",
   "author": "Doug McDonald <dougajmcdonald@gmail.com>",
   "dependencies": {
@@ -50,9 +50,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dougajmcdonald/gatsby-tailwind-netlify-cms-starter"
+    "url": "https://github.com/dougajmcdonald/holt-village-hall"
   },
   "bugs": {
-    "url": "https://github.com/dougajmcdonald/gatsby-tailwind-netlify-cms-starter/issues"
+    "url": "https://github.com/dougajmcdonald/holt-village-hall/issues"
   }
 }

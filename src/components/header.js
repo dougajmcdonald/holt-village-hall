@@ -12,12 +12,12 @@ const Header = () => {
       text: `Home`
     },
     {
-      route: `/about`,
-      text: `About`
-    },
-    {
       route: `/book`,
       text: `Book`
+    },
+    {
+      route: `/facilities`,
+      text: `Facilities`
     },
     {
       route: `/contact-us`,

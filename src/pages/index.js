@@ -13,7 +13,7 @@ export default ({
     allMarkdownRemark: { edges }
   }
 }) => {
-  const posts = edges
+  const events = edges
     .filter(
       edge =>
         !!edge.node.frontmatter.date && edge.node.frontmatter.draft === false
@@ -23,15 +23,19 @@ export default ({
     <Layout>
       <SEO title="Home" />
       <Hero
-        text="Welcome to the Gatsby Tailwind Netlify CMS Starter"
+        text="Holt Village Hall provides an inclusive community venue for the village of Holt and local residents"
         image={<HeroImg />}
         cta={{ to: "/contact-us", text: "How to find us" }}
       />
       <Body>
-        <h1>Welcome</h1>
-        <p>Welcome to the Gatsby Tailwind Netlify CMS starter.</p>
-        <h2 className="mt-6">Posts</h2>
-        {posts}
+        <h1>The Hall</h1>
+        <p>
+          Holt Village Hall is situated in the heart of the village, offering
+          two bookable floors and a large car park providing a facility which is
+          second to none in the surrounding area.
+        </p>
+        <h2 className="mt-6">Events</h2>
+        {events}
       </Body>
     </Layout>
   )
