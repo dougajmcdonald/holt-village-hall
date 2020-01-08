@@ -26,31 +26,34 @@ const IndexPage = () => (
         usually get answered sooner.
       </p>
       <h3>Contact form</h3>
-      <form name="contact" method="POST" data-netlify="true">
+      <form name="contact-us" method="POST" data-netlify="true">
+        <input type="hidden" name="form-name" value="contact-us" />
         <p className="my-4">
-          <label className="block text-secondary font-semibold" for="name">
+          <label className="block text-secondary font-semibold" htmlFor="name">
             Name
           </label>
           <input
             className="border-2 border-primary rounded p-2 w-1/3"
             type="text"
             name="name"
+            id="name"
           />
         </p>
         <p className="my-4">
-          <label className="block text-secondary font-semibold" for="email">
+          <label className="block text-secondary font-semibold" htmlFor="email">
             Email
           </label>
           <input
             className="border-2 border-primary rounded p-2 w-1/3"
             type="email"
             name="email"
+            id="email"
           />
         </p>
         <p className="my-4">
           <label
             className="block text-secondary font-semibold"
-            for="enquiry-type"
+            htmlFor="enquiry-type"
           >
             Enquiry type
           </label>
@@ -65,12 +68,16 @@ const IndexPage = () => (
           </select>
         </p>
         <p className="my-4">
-          <label className="block text-secondary font-semibold" for="message">
+          <label
+            className="block text-secondary font-semibold"
+            htmlFor="message"
+          >
             Message
           </label>
           <textarea
             className="border-2 border-primary rounded p-2 w-1/3"
             name="message"
+            id="message"
           ></textarea>
         </p>
         <p>
