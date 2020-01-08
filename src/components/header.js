@@ -20,6 +20,10 @@ const Header = () => {
       text: `Facilities`
     },
     {
+      route: `/about`,
+      text: `About`
+    },
+    {
       route: `/contact-us`,
       text: `Contact Us`
     }
