@@ -5,6 +5,8 @@ import Body from "../components/body"
 import Hero from "../components/hero"
 import SEO from "../components/seo"
 import HeroImg from "../svg/undraw_mindfulness.svg"
+import Word from "../images/word.webp"
+import PDF from "../images/pdf.webp"
 
 const AboutPage = () => (
   <Layout>
@@ -19,17 +21,41 @@ const AboutPage = () => (
     />
     <Body>
       <h1>How to book</h1>
+      <h2>Online</h2>
       <p>
-        We offer an online booking service or if you prefer, you can contact us
-        via email or phone using the details below
+        You can check the availability of the slot you'd like via our online
+        diary below.
       </p>
-      <h2>Booking secretary</h2>
       <p>
-        For enquiries related to room bookings/availability/details please
-        contact our Bookings Secretarys Joy and Tim Mason.
-        <a href="mailto:holthallbooking@gmail.com">holthallbooking@gmail.com</a>
-        07421 838343.
+        Select the room your want from menu then click the <b>+</b> icon on the
+        day you want to book and create an account to make a booking.
       </p>
+      <p className="italic font-bold">
+        NOTE: This will take you to the Hallmaster website where you will need
+        to register or login to complete your booking request.
+      </p>
+      <iframe
+        src="https://v2.hallmaster.co.uk/Scheduler/View/7630"
+        className="w-full"
+        style={{ minHeight: `1550px` }}
+      ></iframe>
+
+      <h2>Email</h2>
+      <p>Contact our Bookings Secretarys Joy and Tim Mason.</p>
+      <a href="mailto:holthallbooking@gmail.com">holthallbooking@gmail.com</a>
+      <h2>Phone</h2>
+      <p>Contact our Bookings Secretarys Joy and Tim Mason.</p>
+      <p>07421 838343</p>
+      <h2>Post</h2>
+      <p>Save, print and post the form to the address below</p>
+      <a href="#" className="block mt-4">
+        <img src={Word} className="inline-block mr-4" />
+        <span>Microsoft Word Form</span>
+      </a>
+      <a href="#" className="block mt-4">
+        <img src={PDF} className="inline-block mr-4" />
+        <span>Adobe PDF Form</span>
+      </a>
       <p className="mt-4 mb-0">Church View Farm,</p>
       <p className="mt-0 mb-0">Melksham Road,</p>
       <p className="mt-0 mb-0">Holt,</p>
@@ -55,33 +81,6 @@ const AboutPage = () => (
       <h3>Kitchen</h3>
       <ul>
         <li>£5.00 per hour</li>
-      </ul>
-      <h2>Regular hirers</h2>
-      <p>
-        The hiring schedule for the hall remains extremely busy and we are
-        pleased to have added a few new regular hirers.
-      </p>
-      <p>
-        In terms of public benefit, it is noted that the beneficiaries of the
-        events held in the hall range from under 3 years of age to over 90.
-      </p>
-      <p>The current regular hirers include:</p>
-      <ul>
-        <li>Emmaus School</li>
-        <li>Yoga</li>
-        <li>Martial arts</li>
-        <li>Yoga for pregnancy</li>
-        <li>Lunch club</li>
-        <li>Bridge club</li>
-        <li>W.I.</li>
-        <li>Flower club</li>
-        <li>Dramatic society</li>
-        <li>Children&#39;s Ballet (term-time)</li>
-        <li>Pilates</li>
-        <li>Youth Group</li>
-        <li>National Childbirth Trust ante natal classes</li>
-        <li>Zumba</li>
-        <li>Monthly surgery by County Councillor</li>
       </ul>
     </Body>
   </Layout>

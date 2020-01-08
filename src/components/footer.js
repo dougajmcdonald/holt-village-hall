@@ -10,10 +10,16 @@ const Header = () => (
       <span className="w-full text-center">
         Holt Village Hall, The Street, Holt, BA14 6QH
       </span>
-      <span className="w-full text-center text-primary mt-8">
+      <span className="w-full text-center text-primary mt-4">
         Registered charity number{" "}
         <a href="http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?RegisteredCharityNumber=305527&SubsidiaryNumber=0">
           305527
+        </a>
+      </span>
+      <span className="w-full text-center mt-4">
+        Find us at the{" "}
+        <a href="http://wvha.org.uk/listing/holt-village-hall/">
+          Wiltshire village halls association
         </a>
       </span>
     </div>
