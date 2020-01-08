@@ -1,5 +1,5 @@
-import PropTypes from "prop-types"
 import React from "react"
+import { Link } from "gatsby"
 
 const Header = () => (
   <footer
@@ -15,6 +15,9 @@ const Header = () => (
         <a href="http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?RegisteredCharityNumber=305527&SubsidiaryNumber=0">
           305527
         </a>
+      </span>
+      <span className="w-full text-center text-primary mt-4">
+        <Link to="/privacy">Privacy policy</Link>
       </span>
       <span className="w-full text-center mt-4">
         Find us at the{" "}
