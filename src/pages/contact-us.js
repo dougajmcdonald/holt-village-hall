@@ -27,38 +27,72 @@ const IndexPage = () => (
       </p>
       <h3>Contact form</h3>
       <form name="contact" method="POST" data-netlify="true">
-        <p>
-          <label>
-            Your Name: <input type="text" name="name" />
+        <p className="my-4">
+          <label className="block text-secondary font-semibold" for="name">
+            Name
           </label>
+          <input
+            className="border-2 border-primary rounded p-2 w-1/3"
+            type="text"
+            name="name"
+          />
+        </p>
+        <p className="my-4">
+          <label className="block text-secondary font-semibold" for="email">
+            Email
+          </label>
+          <input
+            className="border-2 border-primary rounded p-2 w-1/3"
+            type="email"
+            name="email"
+          />
+        </p>
+        <p className="my-4">
+          <label
+            className="block text-secondary font-semibold"
+            for="enquiry-type"
+          >
+            Enquiry type
+          </label>
+          <select
+            className="border-2 border-primary rounded p-2 w-1/3"
+            id="enquiry-type"
+            name="enquiry-type"
+          >
+            <option value="booking">Booking enquiry</option>
+            <option value="feedback">Feedback</option>
+            <option value="idea">Idea</option>
+          </select>
+        </p>
+        <p className="my-4">
+          <label className="block text-secondary font-semibold" for="message">
+            Message
+          </label>
+          <textarea
+            className="border-2 border-primary rounded p-2 w-1/3"
+            name="message"
+          ></textarea>
         </p>
         <p>
-          <label>
-            Your Email: <input type="email" name="email" />
-          </label>
-        </p>
-        <p>
-          <label>
-            Your Role:{" "}
-            <select name="role[]" multiple>
-              <option value="leader">Leader</option>
-              <option value="follower">Follower</option>
-            </select>
-          </label>
-        </p>
-        <p>
-          <label>
-            Message: <textarea name="message"></textarea>
-          </label>
-        </p>
-        <p>
-          <button type="submit">Send</button>
+          <button
+            className="bg-tertiary rounded text-white font-bold font-body text-center my-10"
+            style={{ width: `200px`, height: `60px` }}
+            type="submit"
+          >
+            Send
+          </button>
         </p>
       </form>
-      <h3>General enquiries</h3>
-      <a className="mt-4 inline-block" href="mailto:email@host.com">
-        email@host.com
+      <h3>Contact details</h3>
+      <h4>Acting chairman: Graham Hill</h4>
+      <a className="inline-block" href="mailto:grayivor@hotmail.com">
+        grayivor@hotmail.com
       </a>
+      <h4>Secretary: Rob Page</h4>
+      <a className="inline-block" href="mailto:holtvillagehall@hotmail.com">
+        holtvillagehall@hotmail.com
+      </a>
+      <h4>Hall address</h4>
       <p className="mt-4 mb-0">Holt Village Hall - Wiltshire,</p>
       <p className="mt-0 mb-0">The Street,</p>
       <p className="mt-0 mb-0">Holt,</p>
