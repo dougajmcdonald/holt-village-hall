@@ -3,7 +3,7 @@ path: /blog/example-blog-post
 date: 2020-01-02T09:00:00.000Z
 image: ../assets/rick.jpg
 title: Example blog post
-draft: false
+draft: true
 ---
 
 This is an example blog post. It has an introductory section defined in the markdown which can be styled differently.
