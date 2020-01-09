@@ -14,6 +14,11 @@ collections:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
-      - { name: image, label: Image, widget: image }
+      - {
+          name: image,
+          label: Image,
+          widget: image,
+          default: "src/svg/undraw_events.svg",
+        }
       - { name: body, label: Body, widget: markdown }
       - { name: draft, label: Draft, widget: boolean, default: false }
