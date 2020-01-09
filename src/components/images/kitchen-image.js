@@ -18,15 +18,15 @@ const Image = () => {
     query {
       placeholderImage: file(relativePath: { eq: "kitchen.jpg" }) {
         childImageSharp {
-          fixed(width: 600, webpQuality: 100) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 1200, webpQuality: 100) {
+            ...GatsbyImageSharpFluid
           }
         }
       }
     }
   `)
 
-  return <Img fixed={data.placeholderImage.childImageSharp.fixed} />
+  return <Img fluid={data.placeholderImage.childImageSharp.fluid} />
 }
 
 export default Image
