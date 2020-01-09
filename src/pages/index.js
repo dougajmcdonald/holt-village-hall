@@ -7,9 +7,6 @@ import Body from "../components/body"
 import SEO from "../components/seo"
 import BlogListing from "../components/blog-listing"
 import HeroImg from "../svg/undraw_suburbs.svg"
-import HallImage1 from "../components/images/hall-image-1"
-import HallImage2 from "../components/images/hall-image-2"
-import HallImage3 from "../components/images/hall-image-3"
 
 export default ({
   data: {
@@ -31,18 +28,7 @@ export default ({
         cta={{ to: "/contact-us", text: "How to find us" }}
       />
       <Body>
-        <h1>The Hall</h1>
-        <p>
-          Holt Village Hall is situated in the heart of the village, offering
-          two bookable floors and a large car park providing a facility which is
-          second to none in the surrounding area.
-        </p>
-        <div className="flex flex-wrap justify-between w-full">
-          <HallImage3 />
-          <HallImage2 />
-          <HallImage1 />
-        </div>
-        <h2 className="mt-6">Upcoming Events</h2>
+        <h1 className="mt-6">Upcoming Events</h1>
         {events}
       </Body>
     </Layout>

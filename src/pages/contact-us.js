@@ -33,7 +33,7 @@ const IndexPage = () => (
             Name
           </label>
           <input
-            className="border-2 border-primary rounded p-2 w-1/3"
+            className="border-2 border-primary rounded p-2 md:w-1/3"
             type="text"
             name="name"
             id="name"
@@ -44,7 +44,7 @@ const IndexPage = () => (
             Email
           </label>
           <input
-            className="border-2 border-primary rounded p-2 w-1/3"
+            className="border-2 border-primary rounded p-2 md:w-1/3"
             type="email"
             name="email"
             id="email"
@@ -58,7 +58,7 @@ const IndexPage = () => (
             Enquiry type
           </label>
           <select
-            className="border-2 border-primary rounded p-2 w-1/3"
+            className="border-2 border-primary rounded p-2 md:w-1/3"
             id="enquiry-type"
             name="enquiry-type"
           >

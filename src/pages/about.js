@@ -5,6 +5,9 @@ import Body from "../components/body"
 import Hero from "../components/hero"
 import SEO from "../components/seo"
 import HeroImg from "../svg/undraw_mindfulness.svg"
+import HallImage1 from "../components/images/hall-image-1"
+import HallImage2 from "../components/images/hall-image-2"
+import HallImage3 from "../components/images/hall-image-3"
 
 const AboutPage = () => (
   <Layout>
@@ -15,9 +18,28 @@ const AboutPage = () => (
     />
     <Body>
       <h1>About the hall</h1>
+      <div className="flex flex-wrap justify-between w-ful mb-10">
+        <HallImage3 />
+        <HallImage2 />
+        <HallImage1 />
+      </div>
       <p>
         The Hall was built as a single storey building in 1873 as a reading room
         for men who worked in the village.
+      </p>
+      <p>
+        The hall was erected in 1873 as 'a reading room for the working
+        classes'. Books and some newspapers were supplied for the use of farm
+        labourers and factory workers in the evening. There was doubtless the
+        hope that this would help keep them out of the public houses. Later it
+        became the village hall and, up until to the 1970s, there was first a
+        village library centre and then a small library, run by Wiltshire County
+        Council in part of the building.
+      </p>
+      <p>
+        The hall is now run by a village committee and is used as a meeting
+        place for groups, and a venue for fund raising events, wedding
+        receptions and other private functions.
       </p>
       <p>
         A second floor was added after the First World War in memory of those

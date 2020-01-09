@@ -5,6 +5,9 @@ import Body from "../components/body"
 import Hero from "../components/hero"
 import SEO from "../components/seo"
 import HeroImg from "../svg/undraw_mindfulness.svg"
+import MainHallImage from "../components/images/main-hall-image"
+import FirstFloorImage from "../components/images/first-floor-image"
+import KitchenImage from "../components/images/kitchen-image"
 
 const AboutPage = () => (
   <Layout>
@@ -26,6 +29,13 @@ const AboutPage = () => (
         This main hall measures approx. 16m long by 6m wide plus the stage which
         measures 6m by 5m.
       </p>
+      <MainHallImage />
+      <h3>Kitchen</h3>
+      <p></p>
+      <KitchenImage />
+      <h3>First floor</h3>
+      <p></p>
+      <FirstFloorImage />
       <h2>Capacity</h2>
       <ul>
         <li>Standing audience: 300</li>
