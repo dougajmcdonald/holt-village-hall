@@ -2,6 +2,7 @@
 path: /blog/skittles-knockout-rounds-saturday
 date: 2020-01-25T18:00:00.000Z
 title: Skittles Knockout Rounds (Saturday)
+image: ../assets/skittles-400.jpg
 draft: false
 ---
 

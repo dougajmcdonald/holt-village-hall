@@ -2,6 +2,7 @@
 path: /blog/skittles-knockout-rounds-friday
 date: 2020-01-24T18:00:00.000Z
 title: Skittles Knockout Rounds (Friday)
+image: ../assets/skittles-400.jpg
 draft: false
 ---
 

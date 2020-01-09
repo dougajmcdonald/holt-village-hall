@@ -34,7 +34,7 @@ const Header = () => {
       style={{ minHeight: `70px` }}
     >
       <div className="w-4/5 md:w-2/3 mx-auto py-4 flex flex-wrap items-center justify-between">
-        <Link to="/">
+        <Link to="/" title="home logo">
           <Logo />
         </Link>
         <nav className="hidden md:block">
