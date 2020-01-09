@@ -11,7 +11,7 @@ p {
 }
 
 h1 {
-  @apply font-display text-secondary text-2xl mt-16 mb-8;
+  @apply font-display text-secondary text-2xl mt-10 mb-8;
 }
 
 h2 {

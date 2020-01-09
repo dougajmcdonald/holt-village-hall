@@ -25,10 +25,10 @@ export default ({
       <Hero
         text="Holt Village Hall provides an inclusive community venue for the village of Holt and local residents"
         image={<HeroImg />}
-        cta={{ to: "/contact-us", text: "How to find us" }}
+        cta={{ to: "/book", text: "Book now" }}
       />
       <Body>
-        <h1 className="mt-6">Upcoming Events</h1>
+        <h1>Upcoming Events</h1>
         {events}
       </Body>
     </Layout>
