@@ -106,7 +106,7 @@ const IndexPage = () => (
       <p className="mt-0 mb-0">Wiltshire,</p>
       <p className="mt-0 mb-0">BA14 6QH</p>
       <h2>Where to find us</h2>
-      <img src={Map} />
+      <img src={Map} alt="village hall location" />
     </Body>
   </Layout>
 )

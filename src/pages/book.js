@@ -38,6 +38,7 @@ const AboutPage = () => (
         src="https://v2.hallmaster.co.uk/Scheduler/View/7630"
         className="w-full"
         style={{ minHeight: `1550px` }}
+        title="Hallmaster booking diary"
       ></iframe>
 
       <h2>Email</h2>

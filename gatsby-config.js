@@ -4,7 +4,7 @@ module.exports = {
     author: `@dougajmcdonald`,
     description: `Holt Village Hall - Wiltshire`,
     url: `https://github.com/dougajmcdonald/holt-village-hall`, // No trailing slash allowed!
-    image: `/favicon.png`, // Path to your image you placed in the 'static' folder
+    image: `images/logo-dark.png`, // Path to your image you placed in the 'static' folder
     twitterUsername: `@dougajmcdonald`
   },
   plugins: [
@@ -41,7 +41,7 @@ module.exports = {
         background_color: `#293241`,
         theme_color: `#98C1D9`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png` // This path is relative to the root of the site.
+        icon: `src/images/logo-dark.png` // This path is relative to the root of the site.
       }
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
