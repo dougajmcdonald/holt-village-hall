@@ -19,12 +19,12 @@ const Header = () => (
       <span className="w-full text-center text-primary mt-4">
         <Link to="/privacy">Privacy policy</Link>
       </span>
-      <span className="w-full text-center mt-4">
+      {/* <span className="w-full text-center mt-4">
         Find us at the{" "}
         <a href="http://wvha.org.uk/listing/holt-village-hall/">
           Wiltshire village halls association
         </a>
-      </span>
+      </span> */}
     </div>
   </footer>
 )

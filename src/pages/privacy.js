@@ -4,14 +4,14 @@ import Layout from "../components/layout"
 import Body from "../components/body"
 import Hero from "../components/hero"
 import SEO from "../components/seo"
-import HeroImg from "../svg/undraw_mindfulness.svg"
+import HeroImg from "../svg/undraw_events.svg"
 
 const AboutPage = () => (
   <Layout>
     <SEO title="Privacy policy" />
     <Hero
-      text="Holt Village Hall was established in 1873 as a reading room for men who worked in the village"
-      image={<HeroImg />}
+      text="This data protection policy sets out our commitment to protecting personal data"
+      image={<HeroImg width="300" height="300" />}
     />
     <Body>
       <h1>Privacy policy</h1>
