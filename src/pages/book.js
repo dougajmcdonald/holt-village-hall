@@ -34,6 +34,64 @@ const AboutPage = () => (
         NOTE: This will take you to the Hallmaster website where you will need
         to register or login to complete your booking request.
       </p>
+
+      <div className="flex justify-between">
+        <article>
+          <h2>Base Rates</h2>
+          <table className="font-body my-4">
+            <thead className="font-bold">
+              <tr>
+                <td className="border-primary border-2 py-2 px-4">Room</td>
+                <td className="border-primary border-2 py-2 px-4">
+                  Hourly Rate
+                </td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Main hall</td>
+                <td>£12</td>
+              </tr>
+              <tr>
+                <td>First floor</td>
+                <td>£11</td>
+              </tr>
+              <tr>
+                <td>Skittle alley</td>
+                <td>£11</td>
+              </tr>
+              <tr>
+                <td>Meeting room</td>
+                <td>£10</td>
+              </tr>
+              <tr>
+                <td>Bar</td>
+                <td>£5</td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="font-bold">
+            NOTE: All bookings are a minimum of two hours
+          </p>
+          <p className="font-bold">
+            NOTE: £25.00 license charge if alcohol is to be sold across the bar
+          </p>
+        </article>
+        <article>
+          <h2>Special rates</h2>
+          <p>
+            Fri/Sat evenings - villagers £100.00 - non-villagers £120.00 (access
+            to hall from 5pm)
+          </p>
+          <h3>Children's parties</h3>
+          <p>4 hour booking - Includes the skittle alley and kitchen.</p>
+          <p>Villagers £50 - non-villagers £60</p>
+          <h3>Weddings &amp; Family parties</h3>
+          <p>Includes use of the kitchen (bar hired separately)</p>
+          <p>Villagers £175.00 - non-villagers £200.00</p>
+        </article>
+      </div>
+
       <iframe
         src="https://v2.hallmaster.co.uk/Scheduler/View/7630"
         className="w-full"
@@ -62,52 +120,6 @@ const AboutPage = () => (
       <p className="mt-0 mb-0">Holt,</p>
       <p className="mt-0 mb-0">Wiltshire,</p>
       <p className="mt-0 mb-0">BA14 6QT</p>
-      <h2>Base Rates</h2>
-      <table className="font-body my-4">
-        <thead className="font-bold">
-          <tr>
-            <td className="border-primary border-2 py-2 px-4">Room</td>
-            <td className="border-primary border-2 py-2 px-4">Hourly Rate</td>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Main hall</td>
-            <td>£12</td>
-          </tr>
-          <tr>
-            <td>First floor</td>
-            <td>£11</td>
-          </tr>
-          <tr>
-            <td>Skittle alley</td>
-            <td>£11</td>
-          </tr>
-          <tr>
-            <td>Meeting room</td>
-            <td>£10</td>
-          </tr>
-          <tr>
-            <td>Bar</td>
-            <td>£5</td>
-          </tr>
-        </tbody>
-      </table>
-      <p className="font-bold">NOTE: All bookings are a minimum of two hours</p>
-      <p className="font-bold">
-        NOTE: £25.00 license charge if alcohol is to be sold across the bar
-      </p>
-      <h2>Special rates</h2>
-      <p>
-        Fri/Sat evenings - villagers £100.00 - non-villagers £120.00 (access to
-        hall from 5pm)
-      </p>
-      <h3>Children's parties</h3>
-      <p>4 hour booking - Includes the skittle alley and kitchen.</p>
-      <p>Villagers £50 - non-villagers £60</p>
-      <h3>Weddings &amp; Family parties</h3>
-      <p>Includes use of the kitchen (bar hired separately)</p>
-      <p>Villagers £175.00 - non-villagers £200.00</p>
     </Body>
   </Layout>
 )
