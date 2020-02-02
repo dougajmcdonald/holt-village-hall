@@ -75,7 +75,7 @@ const IndexPage = () => (
             Message
           </label>
           <textarea
-            className="border-2 border-primary rounded p-2 w-1/3 w-full"
+            className="border-2 border-primary rounded p-2 md:w-1/3 w-full"
             name="message"
             id="message"
           ></textarea>
