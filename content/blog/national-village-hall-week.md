@@ -7,3 +7,5 @@ draft: false
 ---
 As we come towards the end of National village hall week we received a visit from Michelle Donelan our local MP.\
 Some of our management team met Michelle in the hall and discussed a variety of subjects including the importance of halls in our villages.
+
+![](/img/michelle_donelan.jpg)
