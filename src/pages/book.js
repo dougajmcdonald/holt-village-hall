@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import Body from "../components/body"
 import Hero from "../components/hero"
 import SEO from "../components/seo"
-import HeroImg from "../svg/undraw_mindfulness.svg"
+import HeroImg from "../svg/undraw_events.svg"
 import Word from "../images/word.webp"
 import PDF from "../images/pdf.webp"
 
@@ -13,7 +13,7 @@ const AboutPage = () => (
     <SEO title="Book the hall" />
     <Hero
       text="Book a session in the hall through our online booking system"
-      image={<HeroImg />}
+      image={<HeroImg width="300" height="300" />}
       cta={{
         to: `https://v2.hallmaster.co.uk/Diary/ViewWeeklyDiary/7630`,
         text: `Book online`

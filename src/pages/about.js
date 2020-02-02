@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import Body from "../components/body"
 import Hero from "../components/hero"
 import SEO from "../components/seo"
-import HeroImg from "../svg/undraw_mindfulness.svg"
+import HeroImg from "../svg/undraw_faq.svg"
 import HallImage1 from "../components/images/hall-image-1"
 import HallImage2 from "../components/images/hall-image-2"
 import HallImage3 from "../components/images/hall-image-3"
@@ -14,7 +14,7 @@ const AboutPage = () => (
     <SEO title="About" />
     <Hero
       text="Holt Village Hall was established in 1873 as a reading room for men who worked in the village"
-      image={<HeroImg />}
+      image={<HeroImg width="300" height="300" />}
     />
     <Body>
       <h1>About the hall</h1>
