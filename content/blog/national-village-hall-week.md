@@ -1,5 +1,5 @@
 ---
-path: national-village-hall-week
+path: /blog/national-village-hall-week
 date: 2020-02-02T20:19:51.348Z
 title: National village hall week
 image: /img/michelle_donelan.jpg
