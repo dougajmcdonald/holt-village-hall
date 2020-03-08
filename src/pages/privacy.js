@@ -72,7 +72,6 @@ const AboutPage = () => (
           Regularly reviewing data protection procedures and guidelines within
           the organisation
         </li>
-        <li>National Childbirth Trust ante natal classes</li>
         <li>
           If you want to find out what information we may hold on you or for
           other data protection issues please contact

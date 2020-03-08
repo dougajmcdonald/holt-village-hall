@@ -27,7 +27,7 @@ h4 {
 }
 
 ul {
-  @apply ml-4 mt-8;
+  @apply ml-4 my-8;
 }
 
 li {
