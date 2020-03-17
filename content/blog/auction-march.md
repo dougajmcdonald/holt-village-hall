@@ -1,15 +1,21 @@
 ---
 path: /blog/auction-march
 date: 2020-03-21T18:00:00.000Z
-title: Auction March
+title: POSTPONED - Auction
 image: ../assets/bill-oxford-OXGhu60NwxU-unsplash.jpg
 draft: false
 ---
-Holt Village Hall will be hosting the Collectables & Household Auction on the 21st of March.
+
+VILLAGE HALL NOTICE
+
+Please note the Village Hall auction scheduled for this coming Saturday, 21st March has been postponed until further notice.
+In view of the latest government guidance we feel it would be irresponsible to proceed with this event.
 
 ![Auction Gavel](../assets/bill-oxford-OXGhu60NwxU-unsplash.jpg)
 
 <!-- end -->
+
+Holt Village Hall will be hosting the Collectables & Household Auction on the 21st of March.
 
 ## Viewing
 
