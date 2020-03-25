@@ -16,10 +16,10 @@ export default ({
   const events = edges
     .filter(
       edge =>
-        (!!edge.node.frontmatter.date &&
-          edge.node.frontmatter.draft === false &&
+        !!edge.node.frontmatter.date &&
+        ((edge.node.frontmatter.draft === false &&
           new Date(edge.node.frontmatter.date) >= new Date()) ||
-        edge.node.frontmatter.sticky
+          edge.node.frontmatter.sticky)
     )
     .map(edge => <BlogListing key={edge.node.id} post={edge.node} />)
   return (

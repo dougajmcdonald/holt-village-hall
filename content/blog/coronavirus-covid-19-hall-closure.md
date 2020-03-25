@@ -11,8 +11,6 @@ sticky: true
 
 <!--StartFragment-->
 
-Coronavirus (COVID-19) Closure
-
 The committee feel they have no option but to close the hall in the light of the latest government safety advice, we will be closing with immediate effect until further notice.
 
 We will review the advice circulated mid April and review bookings and timescales with our aim to be open as soon as possible whilst operating within the government guidance.
