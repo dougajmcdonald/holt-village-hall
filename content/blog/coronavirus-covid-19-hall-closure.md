@@ -2,7 +2,7 @@
 path: /blog/covid-19-closure
 date: 2020-04-01T19:49:00.000Z
 title: Coronavirus (COVID-19) Hall Closure
-image: ''
+image: ../assets/_111099712_p08506cj.jpg
 draft: false
 sticky: true
 ---
