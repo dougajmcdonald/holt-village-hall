@@ -16,10 +16,9 @@ export default ({
   const events = edges
     .filter(
       edge =>
-        !!edge.node.frontmatter.date &&
-        ((edge.node.frontmatter.draft === false &&
-          new Date(edge.node.frontmatter.date) >= new Date()) ||
-          edge.node.frontmatter.sticky)
+        (!!edge.node.frontmatter.date && edge.node.frontmatter.sticky) ||
+        (edge.node.frontmatter.draft === false &&
+          new Date(edge.node.frontmatter.date) >= new Date())
     )
     .map(edge => <BlogListing key={edge.node.id} post={edge.node} />)
   return (
@@ -50,6 +49,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             path
             draft
+            sticky
             image {
               childImageSharp {
                 # Specify the image processing specifications right in the query.
