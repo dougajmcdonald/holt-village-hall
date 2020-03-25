@@ -3,7 +3,7 @@ backend:
   branch: master
 
 media_folder: content/assets
-public_folder: /img
+public_folder: ../assets
 
 collections:
   - name: blog
@@ -17,3 +17,4 @@ collections:
       - { name: image, label: Image, widget: image, required: false }
       - { name: body, label: Body, widget: markdown }
       - { name: draft, label: Draft, widget: boolean, default: false }
+      - { name: sticky, label: Sticky, widget: boolean, default: false }

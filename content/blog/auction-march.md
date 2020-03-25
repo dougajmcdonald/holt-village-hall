@@ -11,7 +11,7 @@ VILLAGE HALL NOTICE
 Please note the Village Hall auction scheduled for this coming Saturday, 21st March has been postponed until further notice.
 In view of the latest government guidance we feel it would be irresponsible to proceed with this event.
 
-![Auction Gavel](../assets/bill-oxford-OXGhu60NwxU-unsplash.jpg)
+![Auction Gavel](/bill-oxford-OXGhu60NwxU-unsplash.jpg)
 
 <!-- end -->
 
