@@ -1,6 +1,6 @@
 ---
 path: /blog/hot-potato-syncopators
-date: 2020-04-03T18:00:00.000Z
+date: 2020-11-28T18:00:00.000Z
 title: Postponed until Autumn - Hot Potato Syncopators
 image: ../assets/HPSSmiles.jpg
 draft: false
@@ -8,7 +8,7 @@ draft: false
 
 ![Hot Potato Syncopators Jumping](../assets/HPSJump.jpg)
 
-Postponed until Autumn - Holt Village Hall hosts the Hot Potato Syncopators - a comedy swing whoopee band featuring a brace of ukuleles, musical saw and tea-chest bass played by three eccentric English gentlemen.
+Holt Village Hall hosts the Hot Potato Syncopators - a comedy swing whoopee band featuring a brace of ukuleles, musical saw and tea-chest bass played by three eccentric English gentlemen.
 
 <!-- end -->
 
