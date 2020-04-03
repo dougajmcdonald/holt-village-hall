@@ -4,6 +4,7 @@ date: 2020-11-28T18:00:00.000Z
 title: Postponed until Autumn - Hot Potato Syncopators
 image: ../assets/HPSSmiles.jpg
 draft: false
+sticky: false
 ---
 
 ![Hot Potato Syncopators Jumping](../assets/HPSJump.jpg)
