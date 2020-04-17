@@ -1,7 +1,7 @@
 ---
 path: /blog/hot-potato-syncopators
 date: 2020-11-28T18:00:00.000Z
-title: Postponed until Autumn - Hot Potato Syncopators
+title: Now booked for 27th November - Hot Potato Syncopators
 image: ../assets/HPSSmiles.jpg
 draft: false
 sticky: false
