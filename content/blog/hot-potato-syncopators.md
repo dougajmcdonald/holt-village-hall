@@ -1,6 +1,6 @@
 ---
 path: /blog/hot-potato-syncopators
-date: 2020-11-27T19:30:00.000Z
+date: 2020-11-26T19:30:00.000Z
 title: Now booked for 27th November - Hot Potato Syncopators
 image: ../assets/HPSSmiles.jpg
 draft: false
