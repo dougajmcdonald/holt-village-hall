@@ -2,7 +2,7 @@
 path: /blog/covid-19-closure
 date: 2020-03-24T19:49:00.000Z
 title: Re opening of Village Hall
-image: ''
+image: ../assets/dsc_2034-2017_06_16-09_16_39-utc-.jpg
 draft: false
 sticky: true
 ---
