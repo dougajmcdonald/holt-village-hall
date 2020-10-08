@@ -1,7 +1,7 @@
 ---
 path: /blog/business use-october
 date: 2020-10-07T17:36:20.201Z
-title: NEWS - Holt Village Hall – Business use
+title: NEWS - Holt Village Hall–Business use
 draft: false
 sticky: false
 ---
