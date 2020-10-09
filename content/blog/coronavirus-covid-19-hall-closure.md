@@ -6,14 +6,10 @@ image: ../assets/dsc_2034-2017_06_16-09_16_39-utc-.jpg
 draft: false
 sticky: true
 ---
-
-
-The Village Hall is set to reopen on 1st September for a limited number of bookings.
+The Village Hall is currently open and available for a limited number of bookings.
 
 Please check availability by contacting our booking secretary email: holthallbooking@gmail.com
 
 or by accessing our on line booking system at: https://v2.hallmaster.co.uk/Admin
-
-
 
 [](https://www.gov.uk/coronavirus)
