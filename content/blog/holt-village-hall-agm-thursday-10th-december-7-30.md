@@ -2,6 +2,8 @@
 path: /AGM-december
 date: 2020-12-10T19:30:00.000Z
 title: Holt Village Hall AGM Thursday 10th December 7.30
+image: >-
+  ../assets/132-1329427_banner-download-annual-meeting-clipart-annual-general-meeting.png
 draft: false
 sticky: false
 ---
