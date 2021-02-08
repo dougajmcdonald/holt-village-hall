@@ -91,9 +91,9 @@ const IndexPage = () => (
         </p>
       </form>
       <h3>Contact details</h3>
-      <h4>Acting chairman: Graham Hill</h4>
-      <a className="inline-block" href="mailto:grayivor@hotmail.com">
-        grayivor@hotmail.com
+      <h4>Chairman: Sue Ennis</h4>
+      <a className="inline-block" href="mailto:enniswhaven@aol.com">
+        enniswhaven@aol.com
       </a>
       <h4>Secretary: Rob Page</h4>
       <a className="inline-block" href="mailto:holtvillagehall@hotmail.com">
