@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
@@ -13,13 +13,28 @@ export default ({
     allMarkdownRemark: { edges }
   }
 }) => {
+  const [activeTab, setActiveTab] = useState(0)
   const events = edges
     .filter(
       edge =>
-        (!!edge.node.frontmatter.date && edge.node.frontmatter.sticky) ||
-        (edge.node.frontmatter.draft === false &&
+        edge.node.frontmatter.category === "events" &&
+        !!edge.node.frontmatter.date &&
+        edge.node.frontmatter.draft === false &&
+        (edge.node.frontmatter.sticky ||
           new Date(edge.node.frontmatter.date) >= new Date())
     )
+
+    .map(edge => <BlogListing key={edge.node.id} post={edge.node} />)
+  const descendingSort = (a, b) =>
+    new Date(b.node.frontmatter.date) - new Date(a.node.frontmatter.date)
+  const news = edges
+    .filter(
+      edge =>
+        edge.node.frontmatter.category === "news" &&
+        !!edge.node.frontmatter.date &&
+        edge.node.frontmatter.draft === false
+    )
+    .sort(descendingSort)
     .map(edge => <BlogListing key={edge.node.id} post={edge.node} />)
   return (
     <Layout>
@@ -30,8 +45,23 @@ export default ({
         cta={{ to: "/book", text: "Book now" }}
       />
       <Body>
-        <h1>Upcoming Events</h1>
-        {events}
+        <h1
+          className={`inline-block mr-10 cursor-pointer hover:underline ${
+            activeTab === 0 ? "" : "text-gray-500"
+          }`}
+          onClick={() => setActiveTab(0)}
+        >
+          Upcoming Events
+        </h1>
+        <h1
+          className={`inline-block cursor-pointer hover:underline ${
+            activeTab === 1 ? "" : "text-gray-500"
+          }`}
+          onClick={() => setActiveTab(1)}
+        >
+          News
+        </h1>
+        {activeTab === 0 ? events : news}
       </Body>
     </Layout>
   )
@@ -46,6 +76,7 @@ export const pageQuery = graphql`
           excerpt
           frontmatter {
             title
+            category
             date(formatString: "MMMM DD, YYYY")
             path
             draft
