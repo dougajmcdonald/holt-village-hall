@@ -3,6 +3,7 @@ path: /200+ CLUB
 date: 2021-03-09T18:05:37.089Z
 title: 200 PLUS CLUB - MARCH WINNERS
 category: news
+image: ../assets/££a.jpg
 draft: false
 sticky: true
 ---
