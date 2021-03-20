@@ -8,7 +8,7 @@ sticky: false
 ---
 Some normal text
 
-| Left | Center | Right |
-| ---- | ------ | ----- |
-| L1   | C1     | R1    |
-| L123 | C123   | R123  |
+|Header Column 1|Header Column 2|
+|-|-|-|
+| Row 1, Col 2|Row 1, Col 2|
+| Row 2, Col 2|Row 2, Col 2|
