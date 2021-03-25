@@ -7,4 +7,4 @@ image: ../assets/vhcp.jpg
 draft: false
 sticky: true
 ---
-![]()
+![](../assets/vhcp.jpg)
