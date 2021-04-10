@@ -4,7 +4,7 @@ date: 2021-04-10T16:11:49.294Z
 title: TEST 3
 category: news
 draft: false
-sticky: false
+sticky: true
 ---
 | TIME | DATE | Number |
 | ---- | ---- | ------ |
