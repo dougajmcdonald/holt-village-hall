@@ -1,5 +1,5 @@
 ---
-path: '\TABLE-TEST '
+path: \TABLE-TEST
 date: 2021-03-21T17:31:13.402Z
 title: TABLE TEST
 category: news
