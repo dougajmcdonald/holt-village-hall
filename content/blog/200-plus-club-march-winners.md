@@ -1,7 +1,7 @@
 ---
 path: /200+ CLUB
 date: 2021-03-09T18:05:37.089Z
-title: 200 PLUS CLUB - MARCH WINNERS
+title: 200 PLUS CLUB - DRAW WINNERS
 category: news
 image: ../assets/££a.jpg
 draft: false
@@ -9,23 +9,15 @@ sticky: true
 ---
 Currently we have 240 numbers in circulation.  For those new to this, 50% of subscriptions are returned in prizes.  The winning numbers are selected by a random number generator - like ERNIE!
 
-|Date of Draw|1st Prize|2nd Prize|3rd Prize|4th Prize|5th Prize|6th Prize|
-|-|-|-|-|-|-|-|
-|January 2021 100 members|No48 £25|No 82 £15|No 7 £10|N/A|N/A|N/A|
+The lucky winners are:
 
-The lucky winners this month are:
+| Date of Draw                | 1st Prize  | 2nd Prize  | 3rd Prize  | 4th Prize | 5th Prize | 6th Prize  |
+| --------------------------- | ---------- | ---------- | ---------- | --------- | --------- | ---------- |
+| January 2021 (100 members)  | No 48 £25  | No 82 £15  | No 7 £10   | N/A       | N/A       | N/A        |
+| February 2021 (239 members) | No 189 £41 | No 116 £25 | No 76 £15  | No102 £15 | No 32 £12 | No 211 £12 |
+| March 2021 (240 members)    | No 138 £41 | No 208 £25 | No 126 £15 | No 84 £15 | No103 £12 | No111 £12  |
 
-**No 138 - £41**
 
-**No 208 - £25**
-
-**No 126 - £15**
-
-**No 84 - £15**
-
-**No 103 - £12**
-
-**No 111 - £12**
 
 For more details, contact Rob Page E:[pageholt@btinternet.com](mailto:pageholt@btinternet.com)**M:** 0794 752 9732
 
