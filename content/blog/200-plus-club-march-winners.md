@@ -9,6 +9,10 @@ sticky: true
 ---
 Currently we have 240 numbers in circulation.  For those new to this, 50% of subscriptions are returned in prizes.  The winning numbers are selected by a random number generator - like ERNIE!
 
+|Date of Draw|1st Prize|2nd Prize|3rd Prize|4th Prize|5th Prize|6th Prize|
+|-|-|-|-|-|-|-|
+|January 2021 100 members|No48 £25|No 82 £15|No 7 £10|N/A|N/A|N/A|
+
 The lucky winners this month are:
 
 **No 138 - £41**
