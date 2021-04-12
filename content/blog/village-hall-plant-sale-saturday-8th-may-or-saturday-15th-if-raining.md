@@ -3,6 +3,7 @@ path: /PLANT SALE
 date: 2021-04-12T16:43:21.585Z
 title: VILLAGE HALL PLANT SALE - SATURDAY 8th MAY (or SATURDAY 15th if raining)
 category: events
+image: ../assets/flowers.jpg
 draft: false
 sticky: true
 ---
