@@ -152,3 +152,71 @@ GARDENERS DELIGHT
 MONEYMAKER
 
 TUMBLING TOM
+
+**PLANT PRICE LIST**
+
+**Bedding Plant Strips (3 or 4 plants) -**£1.50
+
+Begonia, Busy lizzie, Petunia, Lobelia, French Marigold, Cosmos, Zinnia, Verbena, Artic Poppy, Mornng Glory, Livingston Daisy, Blackeyed Susan ,Schizanthus,Zinnia
+
+**Bedding Plant Single Plant Pots**
+
+Geranium Upright - £2.50
+
+Geranium Trailing - £2.00
+
+FuchsiaTrailing - £ 2.50
+
+Surfina Trailing - £ 2.50
+
+BacopaTrailing - £3.00
+
+**Other Annuals**
+
+Single pots - £2.00
+
+Trays /Strips - £1.50 - £2.00
+
+**Vegetables**
+
+Runner Beans (approx. 20) - £5.00
+
+Runner Beans (6-8) - £2.00
+
+Climbing French beans (6-8) - £1.50
+
+Broad beans (6) - £1.00
+
+Courgette - £1.00
+
+Cucumber - £1.00
+
+Peppers - £1.00
+
+Purple sprouting - £1.00
+
+Leeks - £1.00
+
+**Herbs**- £1.00
+
+Chives, Thyme, Coriander, Fennel, Parsley, Rosemary, Mint, Oregano, Tarragon, Basil
+
+**Tomatoes**- £1.00
+
+Money Maker, Gardeners Delight, Tumbling Tom, Alicante, Costoluto Florentino
+
+**Perennials**
+
+Gaura (the bride) - £3.00
+
+Rudbeckia - £2.00
+
+Lavender - £3.00
+
+Echanacea - £2.50
+
+Hollyhock - £2.00
+
+**Other Perennials**
+
+£2.00 - £3.00
