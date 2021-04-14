@@ -55,7 +55,9 @@ LAVATERA *Trimatera white*
 
 LAVENDER
 
-LEUCANTHEMUM *Crazy Daisy*
+LEUCANTHEMUM *Crazy Daisy* 
+
+![](../assets/leucancathemum.png)
 
 LIVINGSTONE DAISY
 
@@ -75,11 +77,15 @@ PETUNIA *mixed*
 
 RHUDBECKIA
 
-SALVIA *Horminum*
+SALVIA *Horminum* 
 
-SALVIA *Euphoria*
+![](../assets/salvia_bumbleberry_bloom_16713optimized.jpg)
 
-SCHIZANTHUS *Angel Wings*
+SALVIA *Euphoria* 
+
+SCHIZANTHUS *Angel Wings*  
+
+![](../assets/schizanthus.png)
 
 SURFINA *trailing various colours*
 
