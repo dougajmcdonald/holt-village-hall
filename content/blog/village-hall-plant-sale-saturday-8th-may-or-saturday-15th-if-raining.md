@@ -15,7 +15,9 @@ Pre-order from Jo Hopkins at ***2tjhopkins@gmail.com*** to avoid disappointment.
 
 **BEDDING AND PERENNIALS**
 
-AGROSTEMMA *Snowqueen*
+AGROSTEMMA *Snowqueen* 
+
+![](../assets/agrostemma.png)
 
 ALYSSUM
 
