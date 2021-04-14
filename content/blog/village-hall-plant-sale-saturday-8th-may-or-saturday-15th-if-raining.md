@@ -23,7 +23,9 @@ ALYSSUM
 
 AUBRIETA *Cascade Red*
 
-BACOPA *Snowtopia*
+BACOPA *Snowtopia* 
+
+![](../assets/abunda-colossal-white.png)
 
 BEGONIA
 
