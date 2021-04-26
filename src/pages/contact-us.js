@@ -99,6 +99,11 @@ const IndexPage = () => (
       <a className="inline-block" href="mailto:holtvillagehall@hotmail.com">
         holtvillagehall@hotmail.com
       </a>
+      <h4>Booking secretarys:</h4>
+      <a className="inline-block" href="mailto:holthallbooking@gmail.com">
+        holthallbooking@gmail.com
+      </a>
+      <p>07421 838343</p>
       <h4>Hall address</h4>
       <p className="mt-4 mb-0">Holt Village Hall - Wiltshire,</p>
       <p className="mt-0 mb-0">The Street,</p>
