@@ -3,6 +3,7 @@ path: /Treasurer
 date: 2021-04-30T15:16:39.913Z
 title: NEW TRUSTEES AND TREASURER
 category: news
+image: ../assets/treasurer-2.png
 draft: false
 sticky: true
 ---
