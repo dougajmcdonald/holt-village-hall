@@ -46,7 +46,7 @@ export default ({
       />
       <Body>
         <h1
-          className={`inline-block mr-10 mb-16 cursor-pointer border-b-4 border-transparent ${
+          className={`inline-block mt-4 mr-4 md:mb-16 text-l md:text-2xl cursor-pointer border-b-4 border-transparent ${
             activeTab === 0
               ? "border-tertiary"
               : "text-gray-700 hover:border-tertiary"
@@ -56,7 +56,7 @@ export default ({
           Upcoming Events
         </h1>
         <h1
-          className={`inline-block mr-10 mb-16 cursor-pointer border-b-4 border-transparent ${
+          className={`inline-block mt-4 md:mb-16 text-l md:text-2xl cursor-pointer border-b-4 border-transparent ${
             activeTab === 1
               ? "border-tertiary"
               : "text-gray-700 hover:border-tertiary"

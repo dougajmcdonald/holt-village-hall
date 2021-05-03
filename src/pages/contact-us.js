@@ -90,28 +90,31 @@ const IndexPage = () => (
           </button>
         </p>
       </form>
-      <h3>Contact details</h3>
-      <h4>Chairman: Sue Ennis</h4>
+      <h2>Contact details</h2>
+      <h3>Chairman: Sue Ennis</h3>
       <a className="inline-block" href="mailto:enniswhaven@aol.com">
         enniswhaven@aol.com
       </a>
-      <h4>Secretary: Rob Page</h4>
+      <h3>Secretary: Rob Page</h3>
       <a className="inline-block" href="mailto:holtvillagehall@hotmail.com">
         holtvillagehall@hotmail.com
       </a>
-      <h4>Booking secretarys:</h4>
+      <h3>Booking secretarys:</h3>
       <a className="inline-block" href="mailto:holthallbooking@gmail.com">
         holthallbooking@gmail.com
       </a>
       <p>07421 838343</p>
-      <h4>Hall address</h4>
+      <h2>Where to find us</h2>
+      <h3>Address</h3>
       <p className="mt-4 mb-0">Holt Village Hall - Wiltshire,</p>
       <p className="mt-0 mb-0">The Street,</p>
       <p className="mt-0 mb-0">Holt,</p>
       <p className="mt-0 mb-0">Wiltshire,</p>
       <p className="mt-0 mb-0">BA14 6QH</p>
-      <h2>Where to find us</h2>
       <img src={Map} alt="village hall location" />
+      <h3>Social media</h3>
+      Visit us on{" "}
+      <a href="https://www.facebook.com/holtvillagehall">Facebook</a>
     </Body>
   </Layout>
 )
