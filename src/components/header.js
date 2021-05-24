@@ -43,6 +43,16 @@ const Header = () => {
               {page.text}
             </NavLink>
           ))}
+          <a
+            className="inline-block"
+            href="https://www.facebook.com/holtvillagehall"
+          >
+            <img
+              className="w-8 h-8 ml-4"
+              src="img/facebook-logo.png"
+              alt="facebook logo"
+            />
+          </a>
         </nav>
         <button
           className="md:hidden text-white border-white border-2 rounded p-2"

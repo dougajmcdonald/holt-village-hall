@@ -214,10 +214,10 @@ const forms = () => (
       </li>
       <li>
         <a
-          href="/docs/HVH Appendix 3 COVID -19 Special Conditions of Hire.pdf"
+          href="/docs/HVH Appendix 3 COVID -19 Special Conditions of Hire v10 May 2021.pdf"
           alt="COVID 19 Special Conditions of Hire"
         >
-          COVID 19 Special Conditions of Hire
+          COVID 19 Special Conditions of Hire - Updated May 2021
         </a>
       </li>
     </ul>
