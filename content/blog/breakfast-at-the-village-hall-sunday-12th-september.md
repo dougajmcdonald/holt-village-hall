@@ -8,4 +8,4 @@ image: >-
 draft: false
 sticky: true
 ---
-![](../assets/breakfast-poster.png)
+Come along to this event and enjoy a tasty traditional English breakfast and a friendly chat at the same time.  Or how about a double veggie sausage with double egg to replace the sausage and bacon with the same delicious trimmings bar the black pud obviously! Or even Croissants which can come with jam or veggie or meat sausages.  If you'd rather one of these alternatives to the Traditional breakfast, just let us know that you are coming by Thursday Sept 9th by emailing holthallbooking@gmail.com
