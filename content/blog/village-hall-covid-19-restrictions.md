@@ -7,7 +7,7 @@ image: ../assets/img_2963.jpg
 draft: false
 sticky: true
 ---
-Uodate August 2021
+Update August 2021
 
 The Village Hall is now open but subject to special terms and conditions to reflect best practice as recommended by Comunity First and ACRE (Action with Communities in Rural England)
 
