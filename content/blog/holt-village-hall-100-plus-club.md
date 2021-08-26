@@ -1,7 +1,7 @@
 ---
 path: /100 PLUS CLUB
 date: 2021-01-11T13:14:03.514Z
-title: HOLT VILLAGE HALL 100 PLUS CLUB - UPDATE
+title: HOLT VILLAGE HALL 100 PLUS CLUB - SEPTEMBER 2021 UPDATE
 category: news
 draft: false
 sticky: true
