@@ -1,10 +1,10 @@
 ---
-path: "/AMAZON SMILE "
+path: '/AMAZON SMILE '
 date: 2021-01-01T15:59:00.000Z
 title: AMAZON FUNDRAISER FOR THE VILLAGE HALL
-category: "events"
+category: events
 image: ../assets/vha.jpg
-draft: false
+draft: true
 sticky: true
 ---
 
