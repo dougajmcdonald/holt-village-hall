@@ -3,6 +3,7 @@ path: /blog/skittles 2021
 date: 2021-09-10T16:49:15.403Z
 title: VILLLAG HALL SKITTLES COMPETITION - 2021
 category: events
+image: ../assets/skitt.jpg
 draft: true
 sticky: false
 ---
