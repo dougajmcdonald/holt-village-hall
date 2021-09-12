@@ -5,7 +5,7 @@ title: BREAKFAST AT THE VILLAGE HALL - SUNDAY 12th SEPTEMBER
 category: events
 image: >-
   ../assets/cartoon-hungry-man-looking-empty-fridge-refrigerator-stick-drawing-conceptual-illustration-135604381.jpg
-draft: false
+draft: true
 sticky: true
 ---
 ![](../assets/breakfast-poster.png)
