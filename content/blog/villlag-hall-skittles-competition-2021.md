@@ -4,10 +4,10 @@ date: 2021-09-10T16:49:15.403Z
 title: VILLLAG HALL SKITTLES COMPETITION - 2021
 category: events
 image: ../assets/skitt.jpg
-draft: true
-sticky: false
+draft: false
+sticky: true
 ---
-Holt Village Hall Skittles Competition 2021
+**Holt Village Hall Skittles Competition 2021**
 
 This year the tournament will take place in the village hall :-
 
@@ -19,9 +19,9 @@ Semi-Finals (4 legs) & Final (4 legs) on Friday 22nd October.
 
 Earliest start will be 19.00 and the latest start will be 21.15
 
-**Note**we have proposed Thursdays and Fridays as the main hall will be unoccupied and so provide maximum space and ventilation.
+**Note:  We have proposed Thursdays and Fridays as the main hall will be unoccupied and so provide maximum space and ventilation.**
 
-We are limited to a maximum of 16 teams, last year all places were taken, so*to avoid disappointment please enter your team as soon as possible*.
+We are limited to a maximum of 16 teams, last year all places were taken, so *to avoid disappointment please enter your team as soon as possible*.
 
 Anyone with connection with Holt, e.g. village residence, village businesses and village organisations can enter a team, with 6 people per team. The cost is £1.50 per person per match payable on the night.
 
@@ -29,7 +29,7 @@ This is *primarily for fun and a comradeship*, so no previous experience is requ
 
 The Bar will be open serving wine, beer, cider and soft drinks at village hall prices!
 
-For further details and to enter a team, drop me an email confirming that you wish to enter, no need for money until the night, *the only thing we do ask is that if you enter, you must turn up otherwise the structure of the competition will fall apart.*
+For further details and to enter a team, drop me an email confirming that you wish to enter, no need for money until the night. T*he only thing we do ask is that if you enter, you must turn up otherwise the structure of the competition will fall apart.*
 
 **[Rob Page](<>)**– (Secretary) on behalf of Holt Village Hall 
 
