@@ -1,5 +1,5 @@
 ---
-path: BLOG/AGM
+path: /BLOG/AGM
 date: 2021-10-26T15:05:51.894Z
 title: HOLT VILLAGE HALL AGM
 category: events
