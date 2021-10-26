@@ -1,8 +1,9 @@
 ---
 path: /BLOG/AGM
 date: 2021-10-26T15:05:51.894Z
-title: HOLT VILLAGE HALL AGM
+title: HOLT VILLAGE HALL AGM - 2021
 category: events
+image: ../assets/agm-image1.jpg
 draft: false
 sticky: true
 ---
