@@ -4,8 +4,8 @@ date: 2021-09-10T16:49:15.403Z
 title: VILLLAG HALL SKITTLES COMPETITION - 2021
 category: events
 image: ../assets/skitt.jpg
-draft: false
-sticky: true
+draft: true
+sticky: false
 ---
 **Holt Village Hall Skittles Competition 2021**
 
