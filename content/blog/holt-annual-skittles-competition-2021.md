@@ -23,12 +23,16 @@ Winner of the highest 3 balls in the preliminary round was won by Anisha Clarke 
 
 Winner of the highest 9 balls in the preliminary round was won by Andy Hews playing for ‘The Doggers’
 
-
-
 **Photos:** 
 
-![Sam Liverton, Steph Carr, Paul Barratt, Steve Uncles, Keith Moore (Capt.) and John Darby of the Booze Buddies celebrating their win](../assets/booze-budies-winners.jpg)
+Sam Liverton, Steph Carr, Paul Barratt, Steve Uncles, Keith Moore (Capt.) and John Darby of the Booze Buddies celebrating their win
 
-![Holt Lions celebrating Anisha Clarke’s winning award for highest 3balls in the preliminary round.](../assets/lions-ladies.jpg)
+Holt Lions celebrating Anisha Clarke’s winning award for highest 3balls in the preliminary round 
 
-![Andy Hews receiving his award for highest 9 balls in the preliminary round.](../assets/andy-hews-best-9-prelimenaries.jpg)
+Andy Hews receiving his award for highest 9 balls in the preliminary round 
+
+![](../assets/booze-budies-winners.jpg)
+
+![](../assets/lions-ladies.jpg)
+
+![](../assets/andy-hews-best-9-prelimenaries.jpg)
