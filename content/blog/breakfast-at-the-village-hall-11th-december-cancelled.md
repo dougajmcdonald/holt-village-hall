@@ -1,7 +1,7 @@
 ---
 path: '/blog/December Breakfast '
 date: 2021-12-07T20:22:05.082Z
-title: BREAKFAST AT THE VILLAGE HALL - 11th DECEMBER (Cancelled)
+title: BREAKFAST AT THE VILLAGE HALL - 11th DECEMBER 2021 (Cancelled)
 category: events
 image: ../assets/sorry-egg.jpg
 draft: false
