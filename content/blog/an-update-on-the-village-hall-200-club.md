@@ -13,7 +13,7 @@ As 2021 draws to a close it is appropriate to provide an update on Holt Village 
 
 To cater for the larger quantity of numbers this year we ditched the bucket and numbered disk and moved to an electronic random number generator.
 
-All number now run to a common renewal date of January 2022 (after the January draw) Renewal notices will be sent to all existing members.
+All numbers now run to a common renewal date of January 2022 (after the January draw) Renewal notices will be sent to all existing members.
 
 So thank you to everyone who has supported this scheme and as a result the Hall has received £1,383 in this calendar year. An equal amount has been returned in prizes.  See below for a list of this years lucky winners.
 
