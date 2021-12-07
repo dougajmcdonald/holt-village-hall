@@ -5,7 +5,7 @@ title: HOLT VILLAGE HALL AGM - 2021
 category: events
 image: ../assets/agm-image1.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 
 
