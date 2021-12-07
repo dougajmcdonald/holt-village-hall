@@ -5,7 +5,7 @@ title: 200 PLUS CLUB - DRAW WINNERS
 category: news
 image: ../assets/££a.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 Currently we have 243 numbers in circulation.  For those new to this, 50% of subscriptions are returned in prizes.  The winning numbers are selected by a random number generator - like ERNIE!
 
