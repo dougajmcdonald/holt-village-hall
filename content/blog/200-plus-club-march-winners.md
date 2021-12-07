@@ -21,6 +21,11 @@ The lucky winners are:
 | June 2021 (242 members)     | No 179 £42   | No 8      £25 | No 203 £15   | No 220 £15   | No 59    £12  | No 148 £12   |
 | July 2021 (243 members)     | No 211 £43   | No108    £25  | No7      £15 | No 114   £15 | No 156   £12  | No 140   £12 |
 | August 2021 (243 members)   | No 235   £43 | No 231   £25  | No 133   £15 | No 184   £15 | No 203    £12 | No 26   £12  |
+|September 2021 (243 members)|No 26 - £43|No 42 - £25|No 18 - £15|No 136 - £15|No 97 - £12|No 113 - £12|
+|October 2021 (243 members)|No 92 - £43|No 108 - £25|No 5 - £15| No 149 - £15|No 213 - £12|No 30 - £12|
+|November 2021 (243 members)|No 52 - £43|No 215 - £25|No 199 - £15|No 137 - £15|No 204 - £12|No 31 - £12|
+|Decenber 2021 (243 members)|No 14 - £43|No 23 - £25|No 188 - £15|No 123 - £15|No 69 - £12|No 162 - £12|
+
 
 For more details, contact Rob Page E:[pageholt@btinternet.com](mailto:pageholt@btinternet.com)**M:** 0794 752 9732
 
