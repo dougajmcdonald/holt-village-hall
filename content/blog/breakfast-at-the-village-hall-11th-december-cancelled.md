@@ -5,6 +5,6 @@ title: BREAKFAST AT THE VILLAGE HALL - 11th DECEMBER 2021 (Cancelled)
 category: events
 image: ../assets/sorry-egg.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 Unfortunately, due to unavoidable circumstances, the breakfast at the Village Hall planned for 11th December has had to be cancelled.
