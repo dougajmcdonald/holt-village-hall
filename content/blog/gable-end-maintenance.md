@@ -9,7 +9,7 @@ sticky: true
 ---
 GABLE END MAINTENANCE
 
-Many people have enquired as to the purpose of the scaffolding around the village hall. Well the answer is that the woodwork on the gable ends were in need of some attention, so all three sets (yes there are three) have had a makeover.
+Many people have enquired as to the purpose of the scaffolding that was around the village hall recently. Well the answer is that the woodwork on the gable ends were in need of some attention, so all three sets (yes there are three) have had a makeover.
 
 ![](../assets/img_9528.jpg)
 
