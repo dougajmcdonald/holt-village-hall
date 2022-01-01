@@ -51,7 +51,7 @@ const howToBook = () => (
               <td>Main hall</td>
               <td>£11</td>
               <td>£12</td>
-              <td>£13</td>
+              <td>£14</td>
             </tr>
             <tr>
               <td>First floor</td>
@@ -66,16 +66,22 @@ const howToBook = () => (
               <td>£12</td>
             </tr>
             <tr>
+              <td>Use of skittles &amp; balls</td>
+              <td>£10</td>
+              <td>£12.50</td>
+              <td>£13.50</td>
+            </tr>
+            <tr>
               <td>Meeting room</td>
-              <td>£8</td>
+              <td>£10</td>
               <td>£10</td>
               <td>£10</td>
             </tr>
             <tr>
               <td>Bar</td>
-              <td>£5</td>
-              <td>£5</td>
-              <td>£7.50</td>
+              <td>£8</td>
+              <td>£10</td>
+              <td>£10</td>
             </tr>
           </tbody>
         </table>
@@ -93,7 +99,8 @@ const howToBook = () => (
           clear up).
         </p>
         <p>
-          Bookings include usage of the Main hall, Kitchen and Skittle Alley.
+          Bookings include usage of the Main hall, Kitchen and Skittle Alley
+          area (but do not include hire of skittles and balls).
         </p>
         <table className="font-body my-4">
           <thead className="font-bold">
@@ -106,8 +113,8 @@ const howToBook = () => (
           </thead>
           <tbody>
             <tr>
-              <td>£50</td>
-              <td>£60</td>
+              <td>£55</td>
+              <td>£65</td>
             </tr>
           </tbody>
         </table>
@@ -133,18 +140,18 @@ const howToBook = () => (
           </thead>
           <tbody>
             <tr>
-              <td>£200</td>
-              <td>£200</td>
+              <td>£235</td>
+              <td>£235</td>
             </tr>
           </tbody>
         </table>
         <p>
           Exclusive hire is offered from 5pm the day before for an additional
-          £50 if you need more time to set up.
+          £75 if you need more time to set up.
         </p>
         <p>
           If you need more time to clear up or want to host a two day party, a
-          rate of £350 is available.
+          rate of £395 is available.
         </p>
       </article>
     </div>
@@ -179,7 +186,7 @@ const forms = () => (
       </li>
       <li>
         <a
-          href="/docs/Hire Charges - 2020  Customer Copy Dec-19.pdf"
+          href="/docs/Hire Charges - 2022 Customers  01_01_2022.pdf"
           alt="Hire charges"
         >
           Hire charges
@@ -239,7 +246,7 @@ const BookPage = () => {
       />
       <Body>
         <h1
-          className={`inline-block mt-4 mr-4 md:mb-16 text-l md:text-2xl cursor-pointer border-b-4 border-transparent ${
+          className={`inline-block mt-4 mr-12 md:mb-16 text-l md:text-2xl cursor-pointer border-b-4 border-transparent ${
             activeTab === 0
               ? "border-tertiary"
               : "text-gray-700 hover:border-tertiary"
