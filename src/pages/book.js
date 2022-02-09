@@ -178,7 +178,7 @@ const forms = () => (
     <ul>
       <li>
         <a
-          href="/docs/HVH Hire Application Form - Mar 21.docx"
+          href="https://drive.google.com/file/d/1XnDcBmT7kWZ2yVcXUhTuM4X4-cUuUzPv/view?usp=sharing"
           alt="Booking form"
         >
           Booking form
@@ -197,7 +197,7 @@ const forms = () => (
     <ul>
       <li>
         <a
-          href="/docs/HVH Regulations for Hiring the Hall Dec 2020.pdf"
+          href="https://drive.google.com/file/d/1C6T0gzLyTjnf5QlSvaakKpFWzLy78Uqg/view?usp=sharing"
           alt="Regulations for Hiring the Hall"
         >
           Regulations for Hiring the Hall
