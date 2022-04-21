@@ -1,11 +1,11 @@
 ---
 path: /blog/Village Hall Plant Sale - 2022 - Update
 date: 2022-04-19T16:18:04.921Z
-title: VILLAGE HALL PLANT SALE - 2022 - UPDATE
+title: VILLAGE HALL PLANT SALE - 2022 - PLANTS LIST
 category: events
 image: ../assets/flowers.jpg
-draft: true
-sticky: false
+draft: false
+sticky: true
 ---
 **The Holt Village Hall Plant Sale** in aid of Village Hall funds will take place this year on Saturday 14th May from 10 am to 2 pm in the Village Hall.
 
