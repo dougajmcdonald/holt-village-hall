@@ -24,6 +24,10 @@ const Header = () => {
       text: `About`
     },
     {
+      route: `/faq`,
+      text: `FAQ`
+    },
+    {
       route: `/contact-us`,
       text: `Contact Us`
     }
