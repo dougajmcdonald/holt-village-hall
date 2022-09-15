@@ -5,7 +5,7 @@ title: 39th FLOWER AND PRODUCE SHOW - Saturday 3rd September 2022
 category: events
 image: ../assets/fc.png
 draft: false
-sticky: true
+sticky: false
 ---
 **Welcome to all participants of the 39th Annual Flower & Produce Show which will be held on** 
 
