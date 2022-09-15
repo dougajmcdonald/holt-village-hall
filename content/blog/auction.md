@@ -5,6 +5,6 @@ title: AUCTION
 category: events
 image: ../assets/auctionx.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 Due to the Covid situation it has been decided that we will not hold the Annual Auction this year.
