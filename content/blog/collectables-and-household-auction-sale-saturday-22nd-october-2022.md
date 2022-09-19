@@ -3,7 +3,7 @@ path: /blog/auctionsaleoct2022
 date: 2022-09-15T14:36:04.800Z
 title: Collectables and Household Auction Sale - Saturday 22nd October 2022
 category: events
-image: ../assets/vhauct.jpg
+image: ../assets/vhauct-correct.jpg
 draft: false
 sticky: true
 ---
@@ -19,4 +19,4 @@ Viewing is from 7.00pm - 9.00pm on Friday 21st and from 9.00am until the start o
 
 Items for sale must be booked in with Jo on 782665 before 14th but earlier is advised as there is a limit to the number of items we can take in for the sale
 
-For full information and details ring Jo on 01225 782665 or e-mail tjhopkins@gmail.com
+For full information and details ring Jo on 01225 782665 or e-mail 2tjhopkins@gmail.com
