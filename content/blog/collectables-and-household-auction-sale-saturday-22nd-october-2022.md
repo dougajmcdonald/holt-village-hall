@@ -5,7 +5,7 @@ title: Collectables and Household Auction Sale - Saturday 22nd October 2022
 category: events
 image: ../assets/vhauct-correct.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 HOLT VILLAGE HALL
 
