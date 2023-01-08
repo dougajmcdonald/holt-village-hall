@@ -49,27 +49,27 @@ const howToBook = () => (
           <tbody>
             <tr>
               <td>Main hall</td>
-              <td>£11</td>
-              <td>£12</td>
+              <td>£12.50</td>
               <td>£14</td>
+              <td>£15</td>
             </tr>
             <tr>
               <td>First floor</td>
-              <td>£10</td>
-              <td>£11</td>
-              <td>£12.50</td>
+              <td>£11.50</td>
+              <td>£12.75</td>
+              <td>£13.50</td>
             </tr>
             <tr>
               <td>Skittle alley</td>
-              <td>£10</td>
-              <td>£11</td>
-              <td>£12</td>
+              <td>£13</td>
+              <td>£14</td>
+              <td>£15</td>
             </tr>
             <tr>
               <td>Use of skittles &amp; balls</td>
-              <td>£10</td>
-              <td>£12.50</td>
-              <td>£13.50</td>
+              <td>£12</td>
+              <td>£16</td>
+              <td>£15</td>
             </tr>
             <tr>
               <td>Meeting room</td>
@@ -79,9 +79,9 @@ const howToBook = () => (
             </tr>
             <tr>
               <td>Bar</td>
-              <td>£8</td>
-              <td>£10</td>
-              <td>£10</td>
+              <td>£11.50</td>
+              <td>£13</td>
+              <td>£13</td>
             </tr>
           </tbody>
         </table>
@@ -140,18 +140,18 @@ const howToBook = () => (
           </thead>
           <tbody>
             <tr>
-              <td>£235</td>
-              <td>£235</td>
+              <td>£240</td>
+              <td>£240</td>
             </tr>
           </tbody>
         </table>
         <p>
           Exclusive hire is offered from 5pm the day before for an additional
-          £75 if you need more time to set up.
+          £80 if you need more time to set up.
         </p>
         <p>
           If you need more time to clear up or want to host a two day party, a
-          rate of £395 is available.
+          rate of £400 is available.
         </p>
       </article>
     </div>
