@@ -205,14 +205,6 @@ const forms = () => (
       </li>
       <li>
         <a
-          href="/docs/HVH Appendix 1 Premises Licencing Conditions.pdf"
-          alt="Premises Licencing Conditions"
-        >
-          Premises Licencing Conditions
-        </a>
-      </li>
-      <li>
-        <a
           href="/docs/HVH Appendix 2 Checklist when hiring the hall.pdf"
           alt="Checklist when hiring the hall"
         >
