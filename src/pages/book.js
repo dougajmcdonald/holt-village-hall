@@ -66,10 +66,10 @@ const howToBook = () => (
               <td>£15</td>
             </tr>
             <tr>
-              <td>Use of skittles &amp; balls</td>
-              <td>£12</td>
-              <td>£16</td>
-              <td>£15</td>
+              <td>Setup of the all &amp; Use of skittles &amp; balls</td>
+              <td>£25</td>
+              <td>£30</td>
+              <td>£30</td>
             </tr>
             <tr>
               <td>Meeting room</td>
@@ -186,7 +186,7 @@ const forms = () => (
       </li>
       <li>
         <a
-          href="/docs/Hire Charges - 2022 Customers  01_01_2022.pdf"
+          href="/docs/221231 Hire Charges Jan 2023.pdf"
           alt="Hire charges"
         >
           Hire charges
