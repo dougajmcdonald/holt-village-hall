@@ -53,7 +53,7 @@ const Header = () => {
           >
             <img
               className="w-8 h-8 ml-4"
-              src="img/facebook_logo.svg"
+              src="/img/facebook_logo.svg"
               alt="facebook logo"
             />
           </a>
