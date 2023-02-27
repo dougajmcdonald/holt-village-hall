@@ -5,7 +5,7 @@ title: JANUARY NEW YEAR LUNCH
 category: events
 image: ../assets/roast.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 **NEW YEAR LUNCH**
 
