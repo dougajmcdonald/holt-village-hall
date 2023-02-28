@@ -3,8 +3,9 @@ path: /blog/200 plus club 2022 winners
 date: 2023-02-28T14:18:21.175Z
 title: 200 PLUS CLUB - 2022 WINNERS
 category: news
-draft: true
-sticky: false
+image: ../assets/££a.jpg
+draft: false
+sticky: true
 ---
 Would you like to support Holt Village Hall but feel you haven’t sufficient time?
 
