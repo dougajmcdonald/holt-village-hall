@@ -4,7 +4,7 @@ date: 2023-02-28T14:18:21.175Z
 title: 200 PLUS CLUB - 2022 WINNERS
 category: news
 image: ../assets/££a.jpg
-draft: false
+draft: true
 sticky: true
 ---
 Would you like to support Holt Village Hall but feel you haven’t sufficient time?
@@ -29,7 +29,11 @@ The Club is regulated by Wiltshire Council under the Gambling Act 2005
 
 Lucky numbers in 2022
 
-\|  |1st Prize (£43)|2nd Prize(£25)|3rd Prize(£15)|4th Prize(£15)|5th Prize(£12)|6th Prize(£12)|
+
+
+\|1st Prize (£43)|2nd Prize(£25)|3rd Prize(£15)|4th Prize(£15)|5th Prize(£12)|6th Prize(£12)|
+
+\|-|-|
 
 \|243 Members|
 
