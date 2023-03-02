@@ -65,6 +65,6 @@ Lucky numbers in 2022
 
 |Oct|No 177|No 39|No 140|No 90|No 203|No 239|
 
-\Nov|No 147|No 199|No 49|No 233|No 37|No 89|
+|Nov|No 147|No 199|No 49|No 233|No 37|No 89|
 
 |Dec|No 160|No 208|No 41|No 154|No 165|No 48|
