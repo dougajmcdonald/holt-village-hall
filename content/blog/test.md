@@ -5,7 +5,7 @@ title: test
 category:
   - events
 draft: false
-sticky: false
+sticky: true
 ---
 |heading|xxx|
 |number|four|
