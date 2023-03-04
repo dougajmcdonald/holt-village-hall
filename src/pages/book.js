@@ -185,10 +185,7 @@ const forms = () => (
         </a>
       </li>
       <li>
-        <a
-          href="/docs/221231 Hire Charges Jan 2023.pdf"
-          alt="Hire charges"
-        >
+        <a href="/docs/221231 Hire Charges Jan 2023.pdf" alt="Hire charges">
           Hire charges
         </a>
       </li>
@@ -197,7 +194,7 @@ const forms = () => (
     <ul>
       <li>
         <a
-          href="https://drive.google.com/file/d/1C6T0gzLyTjnf5QlSvaakKpFWzLy78Uqg/view?usp=sharing"
+          href="docs/HVH Regulations for Hiring the Hall Jan 2023.pdf"
           alt="Regulations for Hiring the Hall"
         >
           Regulations for Hiring the Hall
@@ -205,7 +202,7 @@ const forms = () => (
       </li>
       <li>
         <a
-          href="/docs/HVH Appendix 2 Checklist when hiring the hall.pdf"
+          href="/docs/HVH Appendix 2 Checklist when hiring the hall Jan 2023.pdf"
           alt="Checklist when hiring the hall"
         >
           Checklist when hiring the hall
