@@ -1,8 +1,8 @@
 ---
-path: /NEW CHAIRPERSON
+path: /blog/NEW CHAIRPERSON
 date: 2021-01-15T17:45:17.145Z
 title: NEW VILLAGE HALL CHAIRPERSON - SUE ENNIS
-category: "news"
+category: news
 image: ../assets/law-gavel-clipart-clipart-kid-3.jpg
 draft: false
 sticky: true

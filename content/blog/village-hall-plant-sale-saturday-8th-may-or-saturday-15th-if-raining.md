@@ -1,5 +1,5 @@
 ---
-path: /PLANT SALE
+path: /blog/PLANT SALE
 date: 2021-04-12T16:43:21.585Z
 title: VILLAGE HALL PLANT SALE - SATURDAY 8th MAY (or SATURDAY 15th if raining)
 category: events
@@ -7,23 +7,24 @@ image: ../assets/flowers.jpg
 draft: false
 sticky: false
 ---
-Come along and support the **VILLAGE HALL PLANT SALE** which is offering a wide variety of Bedding Plants, Perennials, Vegetables, Herbs and Tomatoes in aid of Village Hall funds.  
 
-This is an outside event to be held at **11 Great Parks** (we cannot use the Village Hall due to Covid 19 restrictions) and will take pace on Saturday 8th May (or Saturday 15th if raining). 
+Come along and support the **VILLAGE HALL PLANT SALE** which is offering a wide variety of Bedding Plants, Perennials, Vegetables, Herbs and Tomatoes in aid of Village Hall funds.
 
-Pre-order from Jo Hopkins at ***2tjhopkins@gmail.com*** to avoid disappointment.
+This is an outside event to be held at **11 Great Parks** (we cannot use the Village Hall due to Covid 19 restrictions) and will take pace on Saturday 8th May (or Saturday 15th if raining).
+
+Pre-order from Jo Hopkins at **_2tjhopkins@gmail.com_** to avoid disappointment.
 
 **BEDDING AND PERENNIALS**
 
-AGROSTEMMA *Snowqueen* 
+AGROSTEMMA _Snowqueen_
 
 ![](../assets/agrostemma.png)
 
 ALYSSUM
 
-AUBRIETA *Cascade Red*
+AUBRIETA _Cascade Red_
 
-BACOPA *Snowtopia* 
+BACOPA _Snowtopia_
 
 ![](../assets/abunda-colossal-white.png)
 
@@ -33,69 +34,69 @@ BLACK EYED SUSAN
 
 CALENDULA
 
-COSMOS *White*
+COSMOS _White_
 
-COSMOS *Red stripe*
+COSMOS _Red stripe_
 
-EHCINACEA *Brilliant star*
+EHCINACEA _Brilliant star_
 
 FRENCH MARIGOLD
 
-FUCHSIA *Various colours*
+FUCHSIA _Various colours_
 
 GERANIUMRED
 
-GERANIUM *White*
+GERANIUM _White_
 
-GERANIUM *Trailing*
+GERANIUM _Trailing_
 
-GYPSOPHILA *Covent Garden white*
+GYPSOPHILA _Covent Garden white_
 
-HOLLYHOCK *Cabaret*
+HOLLYHOCK _Cabaret_
 
-LAVATERA *Trimatera white*
+LAVATERA _Trimatera white_
 
 LAVENDER
 
-LEUCANTHEMUM *Crazy Daisy* 
+LEUCANTHEMUM _Crazy Daisy_
 
 ![](../assets/leucancathemum.png)
 
 LIVINGSTONE DAISY
 
-LOBELIA *white/Crystal Palace /monsoon*
+LOBELIA _white/Crystal Palace /monsoon_
 
-LUPIN *mixed*
+LUPIN _mixed_
 
-MORNING GLORY *Heavenly Blue*
+MORNING GLORY _Heavenly Blue_
 
-NASTURTIUM *Bloody Mary*
+NASTURTIUM _Bloody Mary_
 
-NEMESIA *Carnival mixed*
+NEMESIA _Carnival mixed_
 
 NICOTIANA
 
-PETUNIA *mixed*
+PETUNIA _mixed_
 
 RHUDBECKIA
 
-SALVIA *Horminum* 
+SALVIA _Horminum_
 
 ![](../assets/salvia_bumbleberry_bloom_16713optimized.jpg)
 
-SALVIA *Euphoria* 
+SALVIA _Euphoria_
 
-SCHIZANTHUS *Angel Wings*  
+SCHIZANTHUS _Angel Wings_
 
 ![](../assets/schizanthus.png)
 
-SURFINA *trailing various colours*
+SURFINA _trailing various colours_
 
-VERBENA *mixed*
+VERBENA _mixed_
 
-ZINNIA Faberge *mixed*
+ZINNIA Faberge _mixed_
 
-ZINNIA *Purple Prince|*
+ZINNIA _Purple Prince|_
 
 **HERBS AND VEGETABLES**
 
@@ -105,7 +106,7 @@ BROAD BEANS
 
 CAULIFLOWER
 
-CHILLI *de cayenne hot*
+CHILLI _de cayenne hot_
 
 CHIVES
 
@@ -113,17 +114,17 @@ CLIMBING FRENCH BEANS
 
 CORIANDER
 
-COURGETTE *green*
+COURGETTE _green_
 
-COURGETTE *yellow*
+COURGETTE _yellow_
 
-CUCUMBER *Telegraph*
+CUCUMBER _Telegraph_
 
-CUCUMBER *Beth Alpha*
+CUCUMBER _Beth Alpha_
 
-CUCUMBER *Nimrod*
+CUCUMBER _Nimrod_
 
-FENNEL *bronze*
+FENNEL _bronze_
 
 LEEKS
 
@@ -131,11 +132,11 @@ MINT
 
 OREGANO
 
-PARSLEY *curled leaf*
+PARSLEY _curled leaf_
 
-PARSLEY *flat leaf*
+PARSLEY _flat leaf_
 
-PEPPER *Chilli Demon red*
+PEPPER _Chilli Demon red_
 
 PURPLE SPROUTING
 
@@ -151,13 +152,13 @@ TARRAGON
 
 THYME
 
-**TOMATOES** 
+**TOMATOES**
 
-ALICANTE 
+ALICANTE
 
 COSTOLUTO FLORENTINO
 
-GARDENERS DELIGHT 
+GARDENERS DELIGHT
 
 MONEYMAKER
 

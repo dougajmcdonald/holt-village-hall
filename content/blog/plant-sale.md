@@ -1,5 +1,5 @@
 ---
-path: /May-plant-sale
+path: /blog/May-plant-sale
 date: 2022-05-14T09:00:00.000Z
 title: Plant sale
 category: events
