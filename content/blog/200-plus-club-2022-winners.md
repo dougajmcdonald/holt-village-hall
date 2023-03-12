@@ -20,7 +20,7 @@ Holt Village Hall is a Registered Charity No 305527 The Club is regulated by Wil
 
 243 Members  
 
-**Jan** 	      No. 121-£43 	No. 21- £25	  No. 216 - £15  No. 65 - £1 5         No. 140-£12	 No. 177- £12
+|**Jan**| 	      No. 121-£43| 	No. 21- £25|	  No. 216 - £15|  No. 65 - £1 5         No. 140-£12|	 No. 177- £12|
 
 241 Members 
 
@@ -45,3 +45,6 @@ Holt Village Hall is a Registered Charity No 305527 The Club is regulated by Wil
 **Nov**       No.147 - £42	No. 199- £25	 No.49 - £15	   No.233 - £15	No. 37- £12	 No.89 - £12 
 
 **Dec**	      No. 160- £42	No.208.- £25	 No. 41- £15	   No. 154- £15	No. 165- £12	 No.48 - £12
+
+|﻿Test|col|
+|﻿1|2!
