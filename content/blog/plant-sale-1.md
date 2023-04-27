@@ -5,6 +5,6 @@ title: PLANT SALE
 category: events
 image: ../assets/flowers.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 **Plant Sale** - Saturday 13th May (Details to follow)
