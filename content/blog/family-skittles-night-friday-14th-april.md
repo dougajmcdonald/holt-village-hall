@@ -5,6 +5,6 @@ title: FAMILY SKITTLES NIGHT - Friday 14th April - CANCELLED
 category: events
 image: ../assets/skittles3.png
 draft: false
-sticky: true
+sticky: false
 ---
 Unfortunately this event has been cancelled due to poor ticket sales.  Apologies to those who were intending to come.
