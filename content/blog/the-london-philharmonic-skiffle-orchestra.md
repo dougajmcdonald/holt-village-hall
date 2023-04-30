@@ -5,7 +5,7 @@ title: THE LONDON PHILHARMONIC SKIFFLE ORCHESTRA
 category: events
 image: ../assets/lpso-2-.jpeg
 draft: false
-sticky: true
+sticky: false
 ---
 **THE LONDON PHILHARMONIC SKIFFLE ORCHESTRA** 
 
