@@ -5,6 +5,6 @@ title: FLORAL DEMONSTRATION
 category: events
 image: ../assets/image-2-.png
 draft: false
-sticky: true
+sticky: false
 ---
 A Floral Demonstration by Ellie North will be held in the Village Hall starting at 7:30pm on Thursday 4th May
