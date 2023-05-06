@@ -1,7 +1,7 @@
 ---
 path: /blog/PLANTSALE2023
 date: 2023-04-27T10:41:12.255Z
-title: HOLT PLANT SALE - 2023
+title: HOLT PLANT SALE - SATURDAY 13th MAY 2023
 category: events
 image: ../assets/plant-sale-poster4.jpg
 draft: false
