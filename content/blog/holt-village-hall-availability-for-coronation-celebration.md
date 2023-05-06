@@ -5,7 +5,7 @@ title: Holt Village Hall availability for Coronation Celebration
 category: events
 image: ../assets/log.png
 draft: false
-sticky: true
+sticky: false
 ---
 Holt Village Hall is offering to provide the hall to village organisations/groups of people who wish to provide a public event to celebrate of the Kings coronation. 
 Subject to:
