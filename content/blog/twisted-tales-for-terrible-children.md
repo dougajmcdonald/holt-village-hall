@@ -1,6 +1,6 @@
 ---
 path: /blog/
-date: 2023-04-30T15:47:54.514Z
+date: 2023-06-04T15:47:54.514Z
 title: TWISTED TALES FOR TERRIBLE CHILDREN - SUNDAY 4th JUNE 2023
 category: events
 image: ../assets/poster.jpeg
