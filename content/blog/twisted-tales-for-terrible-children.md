@@ -5,7 +5,7 @@ title: TWISTED TALES FOR TERRIBLE CHILDREN - SUNDAY 4th JUNE 2023
 category: events
 image: ../assets/poster.jpeg
 draft: false
-sticky: true
+sticky: false
 ---
 **Twisted Tales for Terrible Children - at Holt Village Hall on Sunday 4th June at 2:30pm**
 
