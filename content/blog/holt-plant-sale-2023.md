@@ -5,7 +5,7 @@ title: HOLT PLANT SALE - SATURDAY 13th MAY 2023
 category: events
 image: ../assets/plant-sale-poster4.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 Come along and support the **HOLT PLANT SALE** which is offering a wide variety of Bedding Plants, Perennials, Vegetables and Herbs in aid of Village Hall funds at **10:00am on Saturday 13th May** in the Village Hall.  You can pre-order via email on jo0643par@gmail.com.  
 
