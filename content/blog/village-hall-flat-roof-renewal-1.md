@@ -13,10 +13,13 @@ You may have seen scaffolding on the side of the hall running parallel to the sh
 
 The work involved: 
 
-•	removing the redundant roof lights which had been capped when a suspended ceiling was installed.
+•	removing the redundant roof lights which had been capped when a suspended ceiling was installed
 
- •	fitting ”furring strips” to the existing deck to provide a 6 degree slope to ensure water runs rapidly away from the building 
-•	fitting 18mm sterling board over the entire area.
+ •	fitting ”furring strips” to the existing deck to provide a 6 degree slope to ensure water runs rapidly away from the building  
+
+•	fitting 18mm sterling board over the entire area
+
+
 •	Laying an EPDM membrane with drip trims and new sealing to the stonework. 
 
 EPDM is an extremely durable synthetic rubber membrane which isn't damaged by the sun's ultraviolet rays and is incredibly long-lasting.
