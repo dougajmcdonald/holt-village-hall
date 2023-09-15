@@ -5,7 +5,7 @@ title: Holt Flower and Produce Show – 40th Anniversary – 2nd September 2023
 category: events
 image: ../assets/flower-show.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 **Holt Flower and Produce Show – 40th Anniversary – 2nd September 2023** 
 
