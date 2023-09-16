@@ -5,7 +5,7 @@ title: LITTLE MERMAID SUMMER HOLIDAY CLUB - Monday 21st to Thursday 24th August
 category: events
 image: ../assets/image1.jpeg
 draft: false
-sticky: true
+sticky: false
 ---
 **Little Mermaid Summer Holiday Club - Characters Stage School**
 
