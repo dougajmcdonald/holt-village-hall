@@ -3,6 +3,7 @@ path: /blog/HOLT VILLAGE HALL CRAFT FAIR
 date: 2023-10-09T17:16:31.133Z
 title: HOLT VILLAGE HALL CRAFT FAIR - Saturday 2nd December 2023
 category: events
+image: ../assets/craft-fair.jpg
 draft: false
 sticky: true
 ---
