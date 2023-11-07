@@ -7,7 +7,7 @@ title: >-
 category: events
 image: ../assets/skittles-picture-2-1-.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 **Holt Village Hall Skittles Competition 2023**
 
