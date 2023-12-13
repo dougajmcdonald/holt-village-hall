@@ -5,7 +5,7 @@ title: HOLT VILLAGE HALL AGM - Tuesday 12th December 2023
 category: events
 image: ../assets/agm-image1.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 
 
