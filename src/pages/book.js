@@ -49,24 +49,24 @@ const howToBook = () => (
           <tbody>
             <tr>
               <td>Main hall</td>
-              <td>£12.50</td>
-              <td>£14</td>
-              <td>£15</td>
+              <td>£13.00</td>
+              <td>£14.50</td>
+              <td>£15.50</td>
             </tr>
             <tr>
               <td>First floor</td>
-              <td>£11.50</td>
-              <td>£12.75</td>
-              <td>£13.50</td>
+              <td>£12.50</td>
+              <td>£13.00</td>
+              <td>£14.50</td>
             </tr>
             <tr>
               <td>Skittle alley</td>
-              <td>£13</td>
-              <td>£14</td>
-              <td>£15</td>
+              <td>£13.00</td>
+              <td>£14.50</td>
+              <td>£15.50</td>
             </tr>
             <tr>
-              <td>Setup of the all &amp; Use of skittles &amp; balls</td>
+              <td>Setup of the alley &amp; Use of skittles &amp; balls</td>
               <td>£25</td>
               <td>£30</td>
               <td>£30</td>
@@ -79,9 +79,9 @@ const howToBook = () => (
             </tr>
             <tr>
               <td>Bar</td>
-              <td>£11.50</td>
-              <td>£13</td>
-              <td>£13</td>
+              <td>£13.00</td>
+              <td>£14.00</td>
+              <td>£14.00</td>
             </tr>
           </tbody>
         </table>
@@ -113,8 +113,8 @@ const howToBook = () => (
           </thead>
           <tbody>
             <tr>
-              <td>£55</td>
-              <td>£65</td>
+              <td>£57.00</td>
+              <td>£68.00</td>
             </tr>
           </tbody>
         </table>
@@ -140,8 +140,8 @@ const howToBook = () => (
           </thead>
           <tbody>
             <tr>
-              <td>£240</td>
-              <td>£240</td>
+              <td>£250</td>
+              <td>£250</td>
             </tr>
           </tbody>
         </table>
