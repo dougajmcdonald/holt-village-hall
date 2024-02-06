@@ -5,7 +5,7 @@ title: '   The Nick Sorensen Trio - Friday 2nd February 2024 '
 category: events
 image: ../assets/nick.sorensen.trio.a.5flyer-1-.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 **Three jazz greats at Holt Village Hall – just £10 per ticket with a bar at village hall prices... wow!  Mark your calendar - Friday 2nd February 2024 - Doors Open 7pm**
 
