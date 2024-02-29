@@ -5,6 +5,6 @@ title: WEST WILTS GOOD AFTERNOON CHOIR - Starting on Friday 23 February 2024
 category: events
 image: ../assets/vh-choir.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 West Wilts Good Afternoon Choir starting up at Holt Village Hall on Friday 23 February 2024
