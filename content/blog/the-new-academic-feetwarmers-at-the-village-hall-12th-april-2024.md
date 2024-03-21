@@ -7,7 +7,7 @@ image: ../assets/jazz3.jpg
 draft: false
 sticky: true
 ---
-Following on from the very successful evening with Nick Sorensen in February and with popular request, Holt Village Hall has pleasure in hosting The New Academic Feetwarmers in the hall Friday 12th April 2024
+Following on from the very successful evening with Nick Sorensen in February and by popular request, Holt Village Hall has pleasure in hosting The New Academic Feetwarmers in the hall Friday 12th April 2024
 
 You are promised a night of raucous New Orleans Jazz from the Frome-based 8-piece New Academic Feetwarmers
 
