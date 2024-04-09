@@ -27,8 +27,6 @@ Help yourself to squash.
 
 Contact **Rob Page** with your **Team name** (family name would be ideal), **number in your team** and **contact details.** One thing we ask is if you enter, please turn up and don’t be late.
 
-**Rob PageE:**[  pageholt@btinternet.com](mailto:pageholt@btinternet.com) ** T:**01225 782707 **M:** 0794 752 9732
-
-
+**Rob Page  E:**[  pageholt@btinternet.com](mailto:pageholt@btinternet.com)  **T:**01225 782707  **M:** 0794 752 9732
 
 Holt Village Hall - *Registered Charity (305527)*
