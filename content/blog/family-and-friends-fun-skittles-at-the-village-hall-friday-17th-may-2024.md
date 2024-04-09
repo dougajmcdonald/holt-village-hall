@@ -11,7 +11,7 @@ In response to popular request, Holt Village Hall invites you to a Family and Fr
 
 The evening will be based on \*\*Killer Skittles; you are invited to enter a team of between 3 and 5 people (spectators most welcome.). The emphasis will be on fun with a light touch on rules. (We are hoping for lots of teams, however if not we will play as individuals)
 
-**\*\* Killer Skittles***Fast moving & Lots of luck*
+**\*\* Killer Skittles** Fast moving & Lots of luck 
 
 **REFRESHMENTS:**
 
