@@ -4,8 +4,8 @@ date: 2024-04-10T08:20:35.011Z
 title: FAMILY AND FRIENDS FUN SKITTLES AT THE VILLAGE HALL - Friday 17th May 2024
 category: events
 image: ../assets/skit-pic.jpg
-draft: false
-sticky: false
+draft: true
+sticky: true
 ---
 In response to popular request, Holt Village Hall invites you to a Family and Friends Fun Skittle evening.  **DOORS OPEN 6PM, AND FUN STARTS 6.30PM**
 
