@@ -5,7 +5,7 @@ title: FAMILY AND FRIENDS FUN SKITTLES AT THE VILLAGE HALL - Friday 17th May 202
 category: events
 image: ../assets/skit-pic.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 In response to popular request, Holt Village Hall invites you to a Family and Friends Fun Skittle evening.  **DOORS OPEN 6PM, AND FUN STARTS 6.30PM**
 
