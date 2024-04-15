@@ -5,7 +5,7 @@ title: The New Academic Feetwarmers at the Village Hall - 12th April 2024
 category: events
 image: ../assets/jazz3.jpg
 draft: false
-sticky: true
+sticky: false
 ---
 Following on from the very successful evening with Nick Sorensen in February and by popular request, Holt Village Hall has pleasure in hosting The New Academic Feetwarmers in the hall Friday 12th April 2024
 
