@@ -1,5 +1,5 @@
 ---
-path: '  /blog/family and friends skittles'
+path: /blog/family and friends skittles
 date: 2024-04-09T17:12:37.771Z
 title: FAMILY AND FRIENDS FUN SKITTLES AT THE VILLAGE HALL - Friday 17th May 2024
 category: events
