@@ -2,8 +2,8 @@
 path: /blog/westwiltsafternoonchoir
 date: 2024-05-14T14:59:20.101Z
 title: >-
-  West Wilts Good Afternoon Choir - Open Rehersal - Friday 24th May - 2:00 -
-  4:00pm
+  West Wilts Good Afternoon Choir - Open Rehersal - Friday 24th May - 1:00 -
+  3:00pm
 category: events
 image: ../assets/westwiltsgac-friday24thmayopenday-41-copy-1-2.jpg
 draft: false
