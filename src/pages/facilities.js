@@ -8,6 +8,7 @@ import HeroImg from "../svg/undraw_mindfulness.svg"
 import MainHallImage1 from "../components/images/main-hall-image-1"
 import MainHallImage2 from "../components/images/main-hall-image-2"
 import MainHallInUse from "../components/images/main-hall-in-use"
+import MainHallWedding from "../components/images/main-hall-wedding"
 import FirstFloorImage from "../components/images/first-floor-image"
 import KitchenImage from "../components/images/kitchen-image"
 
@@ -67,8 +68,11 @@ const AboutPage = () => (
         <div className="mb-4">
           <MainHallImage2 />
         </div>
-        <div>
+        <div className="mb-4">
           <MainHallInUse />
+        </div>
+        <div>
+          <MainHallWedding />
         </div>
       </section>
       <h3>Kitchen</h3>
