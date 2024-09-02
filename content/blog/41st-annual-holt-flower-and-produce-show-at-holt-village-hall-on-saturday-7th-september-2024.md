@@ -1,5 +1,5 @@
 ---
-path: /blog/flower and produce show on Saturday 7th September 2024
+path: /blog/flowerandproduceshowonSaturday7thSeptember2024
 date: 2024-09-02T11:49:46.873Z
 title: >-
   41st ANNUAL HOLT FLOWER AND PRODUCE SHOW  at Holt Village Hall on Saturday 7th
