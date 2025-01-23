@@ -7,7 +7,7 @@ title: >-
 category: events
 image: ../assets/bin2.jpeg
 draft: false
-sticky: true
+sticky: false
 ---
 
 
