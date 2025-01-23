@@ -9,11 +9,7 @@ image: ../assets/carrivick.sisters..jpeg
 draft: false
 sticky: true
 ---
-**THE CARRIVICK SISTERS** at Holt Village Hall on Friday 21st February 2025
-
 Come and see these very talanted sisters - not to be missed! Bar at Village Hall prices too!
-
-
 
 BIOGRAPHY
 
