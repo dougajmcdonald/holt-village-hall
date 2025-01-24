@@ -9,7 +9,43 @@ image: ../assets/carrivick.sisters..jpeg
 draft: false
 sticky: true
 ---
-Come and see these very talanted sisters - not to be missed! Bar at Village Hall prices too!
+
+
+The Carrivick Sisters are back
+
+Previously playing to a**full house in the Village Hall *on a Wednesday evening***I – AMAZING
+
+Well seven years later the**Carrivick Sisters** are back in the hall on **Friday 21st February**. They are one of the UK's top young bluegrass and folk acts.
+
+Twins Laura and Charlotte perform their original songs and instrumentals along with a few carefully chosen covers and **have a reputation for engaging and entertaining live performances**.
+
+The Carrivick Sisters first started performing as a duo as buskers, before turning professional when they won the South West Busker’s and Street Entertainer’s Competition, gaining themselves their first spot **at Glastonbury Festival**.
+
+As well as touring all over the UK, the Carrivick Sisters **have performed at** **major festivals in Canada and mainland Europe**. They have released five studio albums
+
+Tickets £12 from Holt Village Shop.
+
+Doors open 7pm
+
+Wine, Beer etc at village Hall prices
+
+**Press reviews:**
+
+“A superbly talented pair o’ lasses” - **Mike Harding, BBC Radio 2**
+
+“Is there anything these young ladies can't do?” - **Folk & Acoustic Music**
+
+*“best singing together, but the way they play all of the bluegrass instruments is almost frightening. So young, so much talent”***John Atkin, fRoots**
+
+For further info see
+
+**[www.thecarrivicksisters.co.uk](http://www.thecarrivicksisters.co.uk)**
+
+**[www.facebook.com/carrivicks](http://www.facebook.com/carrivicks)**
+
+**[www.twitter.com/carrivicks](http://www.twitter.com/carrivicks)**
+
+**[www.instagram.com/carrivicks](http://www.instagram.com/carrivicks)**
 
 BIOGRAPHY
 
